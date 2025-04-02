@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Connecting your Projects Big and Small across the Globe
 ---
 
